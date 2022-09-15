@@ -5,8 +5,8 @@ body {
     text-align: center;
     color: white;
     text-shadow: 0 0 12px red;
-    max-width: 400px;
-    max-height: 700px;
+    max-width: 100vh;
+    max-height: 100vw;
     
 }
 
@@ -57,9 +57,4 @@ button:hover{
 #reset-btn {
     color: red;
     background: black;
-}
-
-#main {
-    max-width: 500px;
-    max-height: 500px;
 }
